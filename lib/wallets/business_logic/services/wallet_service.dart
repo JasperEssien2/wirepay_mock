@@ -67,6 +67,22 @@ class DummyWalletService extends WalletService {
           flag:
               "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
         ),
+        CurrencyWalletAmount(
+          country: 'Ukraine',
+          currencyCode: 'UAH',
+          currencyName: 'Hryvnia',
+          amount: 5000,
+          flag:
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Ukraine_%28pantone_colors%29.svg/255px-Flag_of_Ukraine_%28pantone_colors%29.svg.png",
+        ),
+         CurrencyWalletAmount(
+          country: 'Egypt',
+          currencyCode: 'EGP',
+          currencyName: 'Pound',
+          amount: 4000,
+          flag:
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/255px-Flag_of_Egypt.svg.png",
+        ),
       ];
 
   List<CurrencyWalletAmount> get walletInfoPage2 => const [
