@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+![Wirepay Mock](https://github.com/JasperEssien2/wirepay_mock/blob/master/display/wirepay_display.gif)
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
